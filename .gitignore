@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.token
+*.sqlite*
+private/
+outputs/
+*.mp4
+*.jpg
+*.png
+*.onnx
+*.bin
+*.safetensors

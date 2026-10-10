@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frigate"
+  short_description: "Search clips, evaluate models, and manage cameras"
+  default_prompt: "Use $frigate to find relevant camera clips and verify the results."
